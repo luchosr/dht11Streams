@@ -2,10 +2,11 @@
 device_id = 'DEVICE_ID'
 
 # Select sensors to use 1 = use | 0 = skip
-enviromental = 1
-gyroscope = 1
-accelerometer = 1
-magnetometer = 1
+dht11 = 1
+enviromental = 0
+gyroscope = 0
+accelerometer = 0
+magnetometer = 0
 
 # Select relay interval
 relay = 30
